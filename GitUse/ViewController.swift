@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("second commit")
         print("third commit")
+        print("after the error")
         // Do any additional setup after loading the view.
     }
     
